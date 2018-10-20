@@ -3,9 +3,9 @@ appVersion: "0.4.0"
 description: Podinfo Helm chart for Kubernetes
 name: podinfo
 version: 0.2.3
-home: https://github.com/stefanprodan/k8s-podinfo
+home: https://github.com/helloworld/k8s-podinfo
 sources:
-- https://github.com/stefanprodan/k8s-podinfo
+- https://github.com/helloworld/k8s-podinfo
 maintainers:
   - name: helloworld
     email: stefanprodan@users.noreply.github.com
