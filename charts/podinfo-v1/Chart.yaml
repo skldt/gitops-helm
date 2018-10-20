@@ -7,6 +7,6 @@ description: Podinfo Helm chart for Kubernetes
 home: https://github.com/stefanprodan/k8s-podinfo
 maintainers:
 - email: stefanprodan@users.noreply.github.com
-  name: stefanprodan
+  name: stefanprodan2
 sources:
 - https://github.com/stefanprodan/k8s-podinfo
