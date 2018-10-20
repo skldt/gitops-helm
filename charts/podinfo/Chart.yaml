@@ -7,6 +7,6 @@ home: https://github.com/stefanprodan/k8s-podinfo
 sources:
 - https://github.com/stefanprodan/k8s-podinfo
 maintainers:
-  - name: stefanprodan
+  - name: helloworld
     email: stefanprodan@users.noreply.github.com
 engine: gotpl
